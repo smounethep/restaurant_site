@@ -1,0 +1,21 @@
+/* Themify Customize Styling */
+body {	
+	font-family: "Arial", "Helvetica", sans-serif; 
+}
+h1 {	
+	font-family: "Arial", "Helvetica", sans-serif;	font-weight:normal;
+	font-size:95px;
+ 
+}
+h2 {	
+	font-family: "Arial", "Helvetica", sans-serif; 
+}
+h3 {	
+	font-family: "Arial", "Helvetica", sans-serif; 
+}
+#main-nav a, #main-nav > li > a, .transparent-header #main-nav a {	
+	color: #ffffff; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #c2c2c2; 
+}
